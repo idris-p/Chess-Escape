@@ -14,3 +14,7 @@ Chess Escape is a unique twist on traditional chess, where you control a single 
 - **Enemy Movement**: Enemy pieces only move when they can capture you.
 - **No Captures**: You cannot capture enemy pieces.
 - **Threatened Squares**: Landing on a square threatened by an enemy piece results in a loss—even if it's the last square!
+
+## Screenshots
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/123269b0-4792-45df-9372-7d5c2367166e" />
+<img width="1222" height="775" alt="image" src="https://github.com/user-attachments/assets/795dbec2-ed8d-449d-bd94-0f010b13e94d" />
