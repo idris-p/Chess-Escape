@@ -6,7 +6,7 @@ Chess Escape is a unique twist on traditional chess, where you control a single 
 ## Features
 - **10 Levels**: Each level presents a different board setup and enemy piece arrangement.
 - **Board Customisation**: Change the board color to your preference in the settings.
-- **Simple Yet Challenging**: Unlike traditional chess, survival is key—you must avoid capture at all costs.
+- **Simple Yet Challenging**: Unlike traditional chess, survival is key - you must avoid capture at all costs.
 
 ## Rules
 - **This is NOT traditional chess.**
@@ -18,3 +18,20 @@ Chess Escape is a unique twist on traditional chess, where you control a single 
 ## Screenshots
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/123269b0-4792-45df-9372-7d5c2367166e" />
 <img width="1222" height="775" alt="image" src="https://github.com/user-attachments/assets/795dbec2-ed8d-449d-bd94-0f010b13e94d" />
+
+## Instructions to Run
+Clone the repository and open the directory
+```
+git clone https://github.com/idris-p/Chess-Escape.git
+cd Chess-Escape
+```
+Create a virtual environment and install dependencies
+```
+python -m venv .venv
+.\.venv\Scripts\activate
+pip install -r requirements.txt
+```
+Run the project!
+```
+python game_solution.py
+```
